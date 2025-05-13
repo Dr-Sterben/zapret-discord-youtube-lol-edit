@@ -5,7 +5,6 @@
 **По наблюдениям работает ТОЛЬКО ИЗ АВТОЗАГРУЗКИ**
 
 - Оригинал статьи, по которой были сделаны изменения: `https://github.com/Flowseal/zapret-discord-youtube/issues/2377#issue-3006396996`
-
 - Оригинал репозитория (был взят релиз 1.7.1): https://github.com/Flowseal/zapret-discord-youtube/tree/main
 
 ## Запуск

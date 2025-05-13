@@ -18,7 +18,7 @@ set "BIN_PATH=%~dp0bin\"
 set "LISTS_PATH=%~dp0lists\"
 
 :: Checking for updates
-call check_updates.bat soft
+@REM call check_updates.bat soft
 echo:
 
 :: Searching for .bat files in current folder, except files that start with "service"

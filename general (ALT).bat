@@ -3,8 +3,8 @@ chcp 65001 > nul
 :: 65001 - UTF-8
 
 cd /d "%~dp0"
-call service_status.bat zapret
-call check_updates.bat soft
+@REM call service_status.bat zapret
+@REM call check_updates.bat soft
 echo:
 
 set "BIN=%~dp0bin\"
